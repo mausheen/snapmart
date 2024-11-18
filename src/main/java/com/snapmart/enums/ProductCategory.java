@@ -1,0 +1,104 @@
+package com.snapmart.enums;
+
+public enum ProductCategory {
+
+	
+
+	    // Fashion & Apparel
+	    CLOTHING,
+	    FOOTWEAR,
+	    ACCESSORIES,
+
+	    // Electronics & Gadgets
+	    SMARTPHONES_TABLETS,
+	    LAPTOPS_COMPUTERS,
+	    TV_HOME_APPLIANCES,
+	    CAMERAS_DRONES,
+	    AUDIO_DEVICES,
+	    SMART_HOME_DEVICES,
+
+	    // Home & Kitchen
+	    FURNITURE,
+	    KITCHEN_APPLIANCES,
+	    HOME_DECOR,
+	    COOKWARE_TABLEWARE,
+	    CLEANING_SUPPLIES,
+
+	    // Health & Beauty
+	    SKINCARE_PRODUCTS,
+	    HAIR_CARE,
+	    PERSONAL_CARE,
+	    MAKEUP_COSMETICS,
+	    VITAMINS_SUPPLEMENTS,
+	    FITNESS_EQUIPMENT,
+
+	    // Sports & Outdoors
+	    SPORTS_EQUIPMENT,
+	    OUTDOOR_GEAR,
+	    FITNESS_WELLNESS_PRODUCTS,
+	    CYCLING_SCOOTERS,
+
+	    // Toys & Games
+	    ACTION_FIGURES_DOLLS,
+	    BOARD_GAMES_PUZZLES,
+	    EDUCATIONAL_TOYS,
+	    VIDEO_GAMES_CONSOLES,
+	    OUTDOOR_PLAY_EQUIPMENT,
+
+	    // Books & Media
+	    BOOKS,
+	    MAGAZINES,
+	    EBOOKS_AUDIOBOOKS,
+	    MOVIES_MUSIC,
+
+	    // Automotive
+	    CAR_ACCESSORIES,
+	    MOTORCYCLE_GEAR,
+	    CAR_CARE_PRODUCTS,
+	    TOOLS_EQUIPMENT,
+
+	    // Baby & Kids
+	    BABY_CLOTHING,
+	    BABY_GEAR,
+	    NURSERY_FURNITURE,
+	    BABY_TOYS_EDUCATIONAL,
+
+	    // Groceries & Gourmet Food
+	    FRESH_PRODUCE,
+	    PANTRY_STAPLES,
+	    SNACKS_BEVERAGES,
+	    ORGANIC_HEALTH_FOODS,
+	    PET_FOOD_SUPPLIES,
+
+	    // Office & Stationery
+	    OFFICE_FURNITURE,
+	    STATIONERY,
+	    OFFICE_ELECTRONICS,
+	    ORGANIZATION_SUPPLIES,
+
+	    // Jewelry & Watches
+	    FINE_JEWELRY,
+	    FASHION_JEWELRY,
+	    WATCHES,
+
+	    // DIY & Tools
+	    POWER_TOOLS,
+	    HAND_TOOLS,
+	    PAINT_DECOR,
+	    BUILDING_MATERIALS,
+
+	    // Pets & Animals
+	    PET_FOOD_TREATS,
+	    PET_TOYS_ACCESSORIES,
+	    PET_GROOMING_PRODUCTS,
+	    AQUARIUM_SUPPLIES,
+
+	    // Travel & Luggage
+	    LUGGAGE_TRAVEL_BAGS,
+	    TRAVEL_ACCESSORIES,
+	    OUTDOOR_ADVENTURE_GEAR;
+
+	  
+	
+
+}
